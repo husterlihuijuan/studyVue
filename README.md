@@ -1,6 +1,7 @@
 # vue_demo
 
 > A Vue.js project
+Vue 的基本使用方法与案例
 
 ## Build Setup
 
